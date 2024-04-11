@@ -1,0 +1,60 @@
+:root {
+  --heading-font-family: "Poppins", serif;
+  --text-color: #272142;
+  --brand-background-color: #f9f7fe;
+  --button-background-color: #6c63ff;
+}
+
+.enquiry {
+  margin-left: 100px;
+  margin-top: 50px;
+  background-color: var(--brand-background-color);
+  border-radius: 8px;
+  padding: 50px;
+}
+
+.enquiry p {
+  font-size: 18px;
+}
+.contact-content h3 {
+  font-family: "Playfair Display", serif;
+  font-weight: bold;
+  font-size: 48px;
+  margin-top: 250px;
+}
+
+.work-enquiry {
+  font-family: "Playfair Display";
+}
+
+.contact-link {
+  background-color: var(--button-background-color);
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 10px 15px;
+  font-family: var(--heading-font-family);
+  font-weight: 400;
+  border-radius: 8px;
+}
+
+.mailto {
+  text-align: center;
+}
+
+.socials {
+  font-size: 24px;
+  text-align: center;
+}
+
+.socials span {
+  padding: 15px;
+  color: var(--button-background-color);
+}
+
+.email {
+  text-align: center;
+  font-family: var(--heading-font-family);
+  font-size: 18px;
+  color: var(--text-color);
+}
